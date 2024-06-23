@@ -1,4 +1,4 @@
-Calculator
+Calculator \n
 Welcome to the Calculator project! This is a simple, yet powerful calculator application implemented in Python. It provides all the basic features you would expect from a standard calculator, including addition, subtraction, multiplication, and division.
 
 Features
@@ -13,12 +13,6 @@ Getting Started
 Prerequisites
 Ensure you have Python installed. You can download it from python.org.
 
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/calculator.git
-cd calculator
 Install dependencies (if any):
 bash
 Copy code
