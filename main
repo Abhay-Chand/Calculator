@@ -44,7 +44,7 @@ class Calculator:
         result=eval(self.entry_value)
         self.equation.set(result)
         
-
+# now after creating a class we will --
 root=Tk()
 calculator=Calculator(root)
 root.mainloop()
